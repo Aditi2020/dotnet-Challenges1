@@ -1,0 +1,15 @@
+C:\Users\Aditi\Desktop\dotnet\guessno\bin\Debug\net6.0\guessno.exe
+C:\Users\Aditi\Desktop\dotnet\guessno\bin\Debug\net6.0\guessno.deps.json
+C:\Users\Aditi\Desktop\dotnet\guessno\bin\Debug\net6.0\guessno.runtimeconfig.json
+C:\Users\Aditi\Desktop\dotnet\guessno\bin\Debug\net6.0\guessno.dll
+C:\Users\Aditi\Desktop\dotnet\guessno\bin\Debug\net6.0\ref\guessno.dll
+C:\Users\Aditi\Desktop\dotnet\guessno\bin\Debug\net6.0\guessno.pdb
+C:\Users\Aditi\Desktop\dotnet\guessno\obj\Debug\net6.0\guessno.csproj.AssemblyReference.cache
+C:\Users\Aditi\Desktop\dotnet\guessno\obj\Debug\net6.0\guessno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi\Desktop\dotnet\guessno\obj\Debug\net6.0\guessno.AssemblyInfoInputs.cache
+C:\Users\Aditi\Desktop\dotnet\guessno\obj\Debug\net6.0\guessno.AssemblyInfo.cs
+C:\Users\Aditi\Desktop\dotnet\guessno\obj\Debug\net6.0\guessno.csproj.CoreCompileInputs.cache
+C:\Users\Aditi\Desktop\dotnet\guessno\obj\Debug\net6.0\guessno.dll
+C:\Users\Aditi\Desktop\dotnet\guessno\obj\Debug\net6.0\ref\guessno.dll
+C:\Users\Aditi\Desktop\dotnet\guessno\obj\Debug\net6.0\guessno.pdb
+C:\Users\Aditi\Desktop\dotnet\guessno\obj\Debug\net6.0\guessno.genruntimeconfig.cache
